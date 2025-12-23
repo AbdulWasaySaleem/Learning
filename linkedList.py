@@ -1,3 +1,7 @@
+#linked list Single and Double 
+#Single linked list value and next pointer (Head)
+#Double linked list value, next pointer and previous pointer (Head and Tail)
+
 class Node:
   def __init__(self, value, next=None):
     self.value = value
